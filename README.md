@@ -59,8 +59,8 @@ from sklearn import metrics accuracy=metrics.accuracy_score(y_test,y_pred) accur
 ![image](https://user-images.githubusercontent.com/94508142/204433694-93ef0145-f095-4730-9383-c707c956f238.png)
 
 
+![image](https://user-images.githubusercontent.com/94508142/204434295-f00319c7-be3e-4c75-b75a-0d138c19aa75.png)
 
-![image](https://user-images.githubusercontent.com/94508142/204433815-f45c2c74-da49-4755-abdd-276b733e8229.png)
 
 
 ![image](https://user-images.githubusercontent.com/94508142/204433899-3299eb21-d400-4646-b5f5-b146bfe61348.png)
